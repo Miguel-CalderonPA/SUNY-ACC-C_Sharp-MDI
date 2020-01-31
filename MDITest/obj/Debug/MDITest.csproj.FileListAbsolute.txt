@@ -1,0 +1,23 @@
+S:\CIS-144\Demos\Weak  IDK\MDITest\MDITest\bin\Debug\MDITest.exe.config
+S:\CIS-144\Demos\Weak  IDK\MDITest\MDITest\bin\Debug\MDITest.exe
+S:\CIS-144\Demos\Weak  IDK\MDITest\MDITest\bin\Debug\MDITest.pdb
+S:\CIS-144\Demos\Weak  IDK\MDITest\MDITest\obj\Debug\MDITest.csprojResolveAssemblyReference.cache
+S:\CIS-144\Demos\Weak  IDK\MDITest\MDITest\obj\Debug\MDITest.Properties.Resources.resources
+S:\CIS-144\Demos\Weak  IDK\MDITest\MDITest\obj\Debug\MDITest.csproj.GenerateResource.cache
+S:\CIS-144\Demos\Weak  IDK\MDITest\MDITest\obj\Debug\MDITest.csproj.CoreCompileInputs.cache
+S:\CIS-144\Demos\Weak  IDK\MDITest\MDITest\obj\Debug\MDITest.exe
+S:\CIS-144\Demos\Weak  IDK\MDITest\MDITest\obj\Debug\MDITest.pdb
+S:\CIS-144\Demos\Weak  IDK\MDITest\MDITest\obj\Debug\MDITest.frmAbout.resources
+S:\CIS-144\Demos\Weak  IDK\MDITest\MDITest\obj\Debug\MDITest.frmParent.resources
+S:\CIS-144\Demos\Weak  IDK\MDITest\MDITest\obj\Debug\MDITest.frmAdd.resources
+S:\CIS-144\Projects\Library\MDITest\MDITest\obj\Debug\MDITest.csprojResolveAssemblyReference.cache
+S:\CIS-144\Projects\Library\MDITest\MDITest\obj\Debug\MDITest.frmAdd.resources
+S:\CIS-144\Projects\Library\MDITest\MDITest\obj\Debug\MDITest.frmParent.resources
+S:\CIS-144\Projects\Library\MDITest\MDITest\obj\Debug\MDITest.frmAbout.resources
+S:\CIS-144\Projects\Library\MDITest\MDITest\obj\Debug\MDITest.Properties.Resources.resources
+S:\CIS-144\Projects\Library\MDITest\MDITest\obj\Debug\MDITest.csproj.GenerateResource.Cache
+S:\CIS-144\Projects\Library\MDITest\MDITest\obj\Debug\MDITest.exe
+S:\CIS-144\Projects\Library\MDITest\MDITest\obj\Debug\MDITest.pdb
+S:\CIS-144\Projects\Library\MDITest\MDITest\bin\Debug\MDITest.exe.config
+S:\CIS-144\Projects\Library\MDITest\MDITest\bin\Debug\MDITest.exe
+S:\CIS-144\Projects\Library\MDITest\MDITest\bin\Debug\MDITest.pdb

@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2568C0B5-928C-4932-8B67-8C5F70DFFD9A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MDITest</RootNamespace>
+    <AssemblyName>MDITest</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmDirect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDirect.Designer.cs">
+      <DependentUpon>frmDirect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewRec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewRec.Designer.cs">
+      <DependentUpon>frmNewRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmShowList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShowList.Designer.cs">
+      <DependentUpon>frmShowList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdate_Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdate_Print.Designer.cs">
+      <DependentUpon>frmUpdate_Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParent.Designer.cs">
+      <DependentUpon>frmParent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAbout.Designer.cs">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemRec.cs" />
+    <Compile Include="LibClass.cs" />
+    <Compile Include="ListClass.cs" />
+    <Compile Include="frmNewData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewData.Designer.cs">
+      <DependentUpon>frmNewData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="nmspcExceptions.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmDirect.resx">
+      <DependentUpon>frmDirect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmnewData.resx">
+      <DependentUpon>frmNewData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewRec.resx">
+      <DependentUpon>frmNewRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShowList.resx">
+      <DependentUpon>frmShowList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdate_Print.resx">
+      <DependentUpon>frmUpdate_Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParent.resx">
+      <DependentUpon>frmParent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coke1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coke2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coke3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coke4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ac.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

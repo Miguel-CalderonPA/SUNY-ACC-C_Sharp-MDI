@@ -1,0 +1,37 @@
+1st Report: Returned
+ ISBN:    Lastname, Firstname  # in Library
+578-596   Jakes, John          2
+592-777   Schmitt, David       1
+258-951   Steele, Danielle     4
+158-888   Wharton, Edith       1
+
+2nd Report: Loaned
+ ISBN:    Lastname, Firstname  # in Library
+147-258   Hemingway, Ernest    3
+888-444   Abel, Peter          0
+123-456   Papert, Seymour      1
+158-888   Wharton, Edith       0
+
+3rd Report: Unchanged
+ ISBN:    Lastname, Firstname  # in Library
+111-222   Jakes, John          2
+133-555   Clancy, Tom          0
+166-025   Blake, Michael       2
+555-852   Dale, Nell           1
+879-852   Weems, Chip          1
+589-257   Headington, Mark     2
+159-258   Jakes, John          1
+122-896   King, Steven         2
+158-258   King, Steven         0
+257-569   Clancy, Tom          1
+158-589   Bradley, Julia       3
+587-668   Millspaugh, Anita    0
+257-963   Weems, Chip          1
+444-896   Clancy, Tom          3
+145-874   Bradley, Julia       3
+665-854   Laille, Susan        0
+455-654   Joyce, James         0
+
+4th Report: Overdue
+ ISBN:    Lastname, Firstname  # in Library Money Owed:
+592-777   Schmitt, David       1            $0.80
