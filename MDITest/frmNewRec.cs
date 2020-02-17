@@ -121,7 +121,7 @@ namespace MDITest
                     {// checks copies to make sure its a real number
                         cops=Convert.ToInt32(txtCopies.Text);
                         // if less than 0 or greater than
-                        if (cops < 0 || cops > 256)
+                        if (cops < 0 || cops > 255)
                         {
                             // lets user know if too big/small
                             MessageBox.Show(txtCopies.Text +

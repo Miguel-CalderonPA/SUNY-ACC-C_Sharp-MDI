@@ -71,3 +71,18 @@ C:\Users\Miguel\Documents\SUNY_ACC\CIS-144 (1)\CIS-144\Projects\Library\MDIProje
 C:\Users\Miguel\Documents\SUNY_ACC\CIS-144 (1)\CIS-144\Projects\Library\MDIProject3 Calderon\MDITest\obj\Debug\MDITest.frmAbout.resources
 C:\Users\Miguel\Documents\SUNY_ACC\CIS-144 (1)\CIS-144\Projects\Library\MDIProject3 Calderon\MDITest\obj\Debug\MDITest.Properties.Resources.resources
 C:\Users\Miguel\Documents\SUNY_ACC\CIS-144 (1)\CIS-144\Projects\Library\MDIProject3 Calderon\MDITest\obj\Debug\CalderonProject3.csproj.GenerateResource.cache
+C:\Users\Miguel\Documents\GitHub\SUNY-ACC-C_Sharp-MDI\MDITest\bin\Debug\MDITest.exe.config
+C:\Users\Miguel\Documents\GitHub\SUNY-ACC-C_Sharp-MDI\MDITest\bin\Debug\MDITest.exe
+C:\Users\Miguel\Documents\GitHub\SUNY-ACC-C_Sharp-MDI\MDITest\bin\Debug\MDITest.pdb
+C:\Users\Miguel\Documents\GitHub\SUNY-ACC-C_Sharp-MDI\MDITest\obj\Debug\CalderonProject3.csprojAssemblyReference.cache
+C:\Users\Miguel\Documents\GitHub\SUNY-ACC-C_Sharp-MDI\MDITest\obj\Debug\MDITest.frmDirect.resources
+C:\Users\Miguel\Documents\GitHub\SUNY-ACC-C_Sharp-MDI\MDITest\obj\Debug\MDITest.frmNewData.resources
+C:\Users\Miguel\Documents\GitHub\SUNY-ACC-C_Sharp-MDI\MDITest\obj\Debug\MDITest.frmNewRec.resources
+C:\Users\Miguel\Documents\GitHub\SUNY-ACC-C_Sharp-MDI\MDITest\obj\Debug\MDITest.frmShowList.resources
+C:\Users\Miguel\Documents\GitHub\SUNY-ACC-C_Sharp-MDI\MDITest\obj\Debug\MDITest.frmUpdate_Print.resources
+C:\Users\Miguel\Documents\GitHub\SUNY-ACC-C_Sharp-MDI\MDITest\obj\Debug\MDITest.frmParent.resources
+C:\Users\Miguel\Documents\GitHub\SUNY-ACC-C_Sharp-MDI\MDITest\obj\Debug\MDITest.frmAbout.resources
+C:\Users\Miguel\Documents\GitHub\SUNY-ACC-C_Sharp-MDI\MDITest\obj\Debug\MDITest.Properties.Resources.resources
+C:\Users\Miguel\Documents\GitHub\SUNY-ACC-C_Sharp-MDI\MDITest\obj\Debug\CalderonProject3.csproj.GenerateResource.cache
+C:\Users\Miguel\Documents\GitHub\SUNY-ACC-C_Sharp-MDI\MDITest\obj\Debug\MDITest.exe
+C:\Users\Miguel\Documents\GitHub\SUNY-ACC-C_Sharp-MDI\MDITest\obj\Debug\MDITest.pdb
